@@ -1,0 +1,10 @@
+# Ferramenta de estimacao de parametros - EFS com CO2
+# Instale com:  pip install -r requirements.txt
+#
+# Python >= 3.10 (usa anotacoes do tipo "X | None")
+#
+# Quem usa Anaconda ou Miniconda ja tem os tres: nao precisa instalar nada.
+
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.6
